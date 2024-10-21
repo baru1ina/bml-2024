@@ -12,6 +12,8 @@ The project examines various types of regularization, such as $L_1$-, $L_2$-regu
 as well as their impact on model quality and generalizing ability. 
 Experiments are being conducted with Titanic (model: LogRegression) and MNIST (model: ConvNN) datasets to demonstrate their effectiveness.
 
+Key-words: machine learning, neural networks, logistic regression, convoluntional neural network, $L_1$-, $L_2$-regularization, Dropout, PyTorh, Matplotlib, SciKit-Learn
+
 Тема доклада: Методы регуляризации
 
 Члены команды: Белоус, Ушкарёв
